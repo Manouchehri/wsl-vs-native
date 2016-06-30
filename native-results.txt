@@ -1,0 +1,95 @@
+[Thu Jun 30 03:43:37 2016]
+Compare your results to other computers at http://www.mersenne.org/report_benchmarks
+Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+CPU speed: 2684.29 MHz, 2 hyperthreaded cores
+CPU features: Prefetchw, SSE, SSE2, SSE4, AVX, AVX2, FMA
+L1 cache size: 32 KB
+L2 cache size: 256 KB, L3 cache size: 3 MB
+L1 cache line size: 64 bytes
+L2 cache line size: 64 bytes
+TLBS: 64
+Prime95 64-bit version 28.9, RdtscTiming=1
+Best time for 1024K FFT length: 4.819 ms., avg: 5.933 ms.
+Best time for 1280K FFT length: 6.143 ms., avg: 6.262 ms.
+Best time for 1536K FFT length: 7.425 ms., avg: 7.694 ms.
+Best time for 1792K FFT length: 9.320 ms., avg: 9.542 ms.
+Best time for 2048K FFT length: 10.036 ms., avg: 10.186 ms.
+Best time for 2560K FFT length: 13.225 ms., avg: 13.444 ms.
+Best time for 3072K FFT length: 15.710 ms., avg: 15.863 ms.
+Best time for 3584K FFT length: 19.083 ms., avg: 19.207 ms.
+Best time for 4096K FFT length: 21.868 ms., avg: 22.024 ms.
+Best time for 5120K FFT length: 28.325 ms., avg: 28.507 ms.
+Best time for 6144K FFT length: 31.517 ms., avg: 31.694 ms.
+Best time for 7168K FFT length: 37.743 ms., avg: 37.919 ms.
+Best time for 8192K FFT length: 43.282 ms., avg: 43.498 ms.
+Timing FFTs using 2 threads on 1 physical CPU.
+Best time for 1024K FFT length: 4.384 ms., avg: 4.485 ms.
+Best time for 1280K FFT length: 5.657 ms., avg: 5.760 ms.
+Best time for 1536K FFT length: 6.784 ms., avg: 6.926 ms.
+Best time for 1792K FFT length: 8.247 ms., avg: 8.460 ms.
+Best time for 2048K FFT length: 9.345 ms., avg: 9.517 ms.
+Best time for 2560K FFT length: 11.839 ms., avg: 12.048 ms.
+Best time for 3072K FFT length: 14.318 ms., avg: 14.588 ms.
+Best time for 3584K FFT length: 17.426 ms., avg: 17.556 ms.
+Best time for 4096K FFT length: 20.272 ms., avg: 20.499 ms.
+Best time for 5120K FFT length: 26.463 ms., avg: 26.698 ms.
+Best time for 6144K FFT length: 31.367 ms., avg: 31.685 ms.
+Best time for 7168K FFT length: 37.722 ms., avg: 38.127 ms.
+Best time for 8192K FFT length: 43.667 ms., avg: 44.261 ms.
+Timing FFTs using 2 threads on 2 physical CPUs.
+Best time for 1024K FFT length: 2.619 ms., avg: 2.745 ms.
+Best time for 1280K FFT length: 3.287 ms., avg: 3.368 ms.
+Best time for 1536K FFT length: 3.964 ms., avg: 4.108 ms.
+Best time for 1792K FFT length: 4.965 ms., avg: 5.110 ms.
+Best time for 2048K FFT length: 5.393 ms., avg: 5.512 ms.
+Best time for 2560K FFT length: 6.996 ms., avg: 7.143 ms.
+Best time for 3072K FFT length: 8.311 ms., avg: 8.470 ms.
+Best time for 3584K FFT length: 10.042 ms., avg: 10.196 ms.
+Best time for 4096K FFT length: 11.605 ms., avg: 11.767 ms.
+Best time for 5120K FFT length: 15.317 ms., avg: 15.506 ms.
+Best time for 6144K FFT length: 17.369 ms., avg: 17.526 ms.
+Best time for 7168K FFT length: 20.785 ms., avg: 20.977 ms.
+Best time for 8192K FFT length: 23.891 ms., avg: 24.336 ms.
+Timing FFTs using 4 threads on 2 physical CPUs.
+Best time for 1024K FFT length: 2.490 ms., avg: 2.603 ms.
+Best time for 1280K FFT length: 3.211 ms., avg: 3.317 ms.
+Best time for 1536K FFT length: 3.880 ms., avg: 3.991 ms.
+Best time for 1792K FFT length: 4.624 ms., avg: 4.816 ms.
+Best time for 2048K FFT length: 5.367 ms., avg: 5.481 ms.
+Best time for 2560K FFT length: 6.661 ms., avg: 6.826 ms.
+Best time for 3072K FFT length: 8.184 ms., avg: 8.323 ms.
+Best time for 3584K FFT length: 9.951 ms., avg: 10.107 ms.
+Best time for 4096K FFT length: 11.321 ms., avg: 11.607 ms.
+Best time for 5120K FFT length: 15.047 ms., avg: 15.232 ms.
+Best time for 6144K FFT length: 17.980 ms., avg: 18.411 ms.
+Best time for 7168K FFT length: 21.703 ms., avg: 22.379 ms.
+Best time for 8192K FFT length: 25.533 ms., avg: 26.034 ms.
+
+Timings for 1024K FFT length (2 cpus, 2 workers):  5.38,  5.18 ms.  Throughput: 378.83 iter/sec.
+Timings for 1024K FFT length (2 cpus hyperthreaded, 2 workers):  5.19,  5.05 ms.  Throughput: 390.51 iter/sec.
+Timings for 1280K FFT length (2 cpus, 2 workers):  6.85,  6.57 ms.  Throughput: 298.19 iter/sec.
+Timings for 1280K FFT length (2 cpus hyperthreaded, 2 workers):  7.11,  6.90 ms.  Throughput: 285.58 iter/sec.
+Timings for 1536K FFT length (2 cpus, 2 workers):  8.66,  8.33 ms.  Throughput: 235.54 iter/sec.
+Timings for 1536K FFT length (2 cpus hyperthreaded, 2 workers):  8.70,  8.31 ms.  Throughput: 235.21 iter/sec.
+Timings for 1792K FFT length (2 cpus, 2 workers): 14.72, 13.60 ms.  Throughput: 141.47 iter/sec.
+Timings for 1792K FFT length (2 cpus hyperthreaded, 2 workers): 17.75, 10.54 ms.  Throughput: 151.22 iter/sec.
+Timings for 2048K FFT length (2 cpus, 2 workers): 15.80, 13.98 ms.  Throughput: 134.82 iter/sec.
+Timings for 2048K FFT length (2 cpus hyperthreaded, 2 workers): 19.43, 11.58 ms.  Throughput: 137.82 iter/sec.
+Timings for 2560K FFT length (2 cpus, 2 workers): 22.78, 18.49 ms.  Throughput: 97.98 iter/sec.
+[Thu Jun 30 03:48:45 2016]
+Timings for 2560K FFT length (2 cpus hyperthreaded, 2 workers): 25.39, 14.63 ms.  Throughput: 107.74 iter/sec.
+Timings for 3072K FFT length (2 cpus, 2 workers): 24.65, 21.98 ms.  Throughput: 86.06 iter/sec.
+Timings for 3072K FFT length (2 cpus hyperthreaded, 2 workers): 30.62, 19.62 ms.  Throughput: 83.63 iter/sec.
+Timings for 3584K FFT length (2 cpus, 2 workers): 35.14, 29.67 ms.  Throughput: 62.16 iter/sec.
+Timings for 3584K FFT length (2 cpus hyperthreaded, 2 workers): 32.61, 21.49 ms.  Throughput: 77.19 iter/sec.
+Timings for 4096K FFT length (2 cpus, 2 workers): 32.46, 28.61 ms.  Throughput: 65.77 iter/sec.
+Timings for 4096K FFT length (2 cpus hyperthreaded, 2 workers): 37.59, 25.40 ms.  Throughput: 65.97 iter/sec.
+Timings for 5120K FFT length (2 cpus, 2 workers): 41.83, 36.94 ms.  Throughput: 50.98 iter/sec.
+Timings for 5120K FFT length (2 cpus hyperthreaded, 2 workers): 49.50, 33.26 ms.  Throughput: 50.27 iter/sec.
+Timings for 6144K FFT length (2 cpus, 2 workers): 42.52, 47.29 ms.  Throughput: 44.67 iter/sec.
+Timings for 6144K FFT length (2 cpus hyperthreaded, 2 workers): 40.41, 39.23 ms.  Throughput: 50.24 iter/sec.
+Timings for 7168K FFT length (2 cpus, 2 workers): 43.59, 41.78 ms.  Throughput: 46.88 iter/sec.
+Timings for 7168K FFT length (2 cpus hyperthreaded, 2 workers): 48.70, 47.45 ms.  Throughput: 41.61 iter/sec.
+Timings for 8192K FFT length (2 cpus, 2 workers): 49.65, 47.77 ms.  Throughput: 41.08 iter/sec.
+Timings for 8192K FFT length (2 cpus hyperthreaded, 2 workers): 57.11, 55.73 ms.  Throughput: 35.45 iter/sec.
+
